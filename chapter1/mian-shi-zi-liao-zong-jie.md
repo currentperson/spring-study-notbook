@@ -6,24 +6,19 @@
 
 ## 资料总结
 
-https://github.com/CyC2018/CS-Notes : 这里面覆盖了算法, 操作系统, 网络, 数据库, java 相关的知识, 理论性很强, 基本覆盖面试整个体系的内容, 挺适合整个体系的复习\(预习\)一遍的, 里面的算法题也比较典型, 面试出现频率比较高, 比一上来就刷 leecode 要省不少时间.里面的设计模式相关内容和系统设计里的一些内容有些简单了, 参考价值不太高, 可能是作者本身工程经验的关系吧
+[https://github.com/CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) : 这里面覆盖了算法, 操作系统, 网络, 数据库, java 相关的知识, 理论性很强, 基本覆盖面试整个体系的内容, 挺适合整个体系的复习\(预习\)一遍的, 里面的算法题也比较典型, 面试出现频率比较高, 比一上来就刷 leecode 要省不少时间.里面的设计模式相关内容和系统设计里的一些内容有些简单了, 参考价值不太高, 可能是作者本身工程经验的关系吧
 
-https://github.com/Snailclimb/JavaGuide : 这个主要是围绕 java 做了一些工程上面的讲解, 理论性没有上一篇那么强, 里面的 jvm 相关可以作为上篇文章的知识体系的补充, 一些工程上的知识和例子也可以借助这篇文章补充, 对于没有太多工作经验的人来讲可以作为经验的提前积累使用
+[https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) : 这个主要是围绕 java 做了一些工程上面的讲解, 理论性没有上一篇那么强, 里面的 jvm 相关可以作为上篇文章的知识体系的补充, 一些工程上的知识和例子也可以借助这篇文章补充, 对于没有太多工作经验的人来讲可以作为经验的提前积累使用
 
-https://github.com/doocs/source-code-hunter: 常用框架源码简单介绍, 可以作为上面两篇文章看完后为了面对一些 ioc 和 aop 的框架问题做知识储备, 这样面试官问起什么是 ioc, 你把 ioc 核心代码讲一遍, 应该会加分吧
+[https://github.com/doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 常用框架源码简单介绍, 可以作为上面两篇文章看完后为了面对一些 ioc 和 aop 的框架问题做知识储备, 这样面试官问起什么是 ioc, 你把 ioc 核心代码讲一遍, 应该会加分吧
 
-https://github.com/MisterBooo/LeetCodeAnimation: 如果学习算法比较枯燥, 没办法入门的话, 可以看看这个 github 项目作为补充
+[https://github.com/MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 如果学习算法比较枯燥, 没办法入门的话, 可以看看这个 github 项目作为补充
 
-https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts\#Java : 更多的好的项目可以看这个汇总的 github, 里面不仅仅是为了面试了, 还有一些有价值的中文项目, 是可以好好学习的
+[https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts\#Java](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Java) : 更多的好的项目可以看这个汇总的 github, 里面不仅仅是为了面试了, 还有一些有价值的中文项目, 是可以好好学习的
 
-https://github.com/doocs/technical-books : 一些技术书籍, 当面试官问你最近在看什么技术书籍和文章, 可以从中说上一本, 说不定面试官也读了, 可以好好聊一聊, 互相沟通心得体会, 我看目前挺常见的就是 &lt;领域驱动设计&gt;, 马老师这书谁都读, 档次还高
+[https://github.com/doocs/technical-books](https://github.com/doocs/technical-books) : 一些技术书籍, 当面试官问你最近在看什么技术书籍和文章, 可以从中说上一本, 说不定面试官也读了, 可以好好聊一聊, 互相沟通心得体会, 我看目前挺常见的就是 &lt;领域驱动设计&gt;, 马老师这书谁都读, 档次还高
 
 ## 
-
-
-
-  
-
 
 
 
