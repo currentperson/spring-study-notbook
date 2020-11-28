@@ -8,4 +8,5 @@
   * [SpringBatch - SkipPolicy](chapter1/springbatch-skippolicy.md)
   * [SpringBatch - Flow2](springbatch-flow.md)
   * [SpringBatch - Validate](chapter1/springbatch-validate.md)
+  * [SpringBatch - MetaData](chapter1/springbatch-metadata.md)
 
