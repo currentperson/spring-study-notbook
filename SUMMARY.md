@@ -9,4 +9,5 @@
   * [SpringBatch - Flow2](springbatch-flow.md)
   * [SpringBatch - Validate](chapter1/springbatch-validate.md)
   * [SpringBatch - MetaData](chapter1/springbatch-metadata.md)
+  * [SpringBatch - Readers&Writers](chapter1/springbatch-readersandwriters.md)
 
